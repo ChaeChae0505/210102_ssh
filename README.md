@@ -26,3 +26,7 @@ http://raspberrypi-aa.github.io/session4/venv.html
 venv 
 python3 -m venv ~/myvenv
 https://www.techcoil.com/blog/how-to-use-python-3-virtual-environments-to-run-python-3-applications-on-your-raspberry-pi/
+
+
+
+https://randomnerdtutorials.com/video-streaming-with-raspberry-pi-camera/
